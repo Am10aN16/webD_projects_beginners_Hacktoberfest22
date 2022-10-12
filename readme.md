@@ -181,5 +181,5 @@ Please discuss it with us first by creating a new issue.
 
 
 
-## Maintainer of this project:  [Sanskarsri](https://www.linkedin.com/in/aman-kr-poddar-7ab5bb202/)
+## Maintainer of this project:  [Aman Poddar](https://www.linkedin.com/in/aman-kr-poddar-7ab5bb202/)
 ## Author of this README file: [Find Me Here](https://www.linkedin.com/in/aman-kr-poddar-7ab5bb202/)
